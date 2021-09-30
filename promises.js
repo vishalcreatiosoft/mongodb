@@ -11,3 +11,6 @@ doWorkPromise.then((result)=> {
 }).catch((error) =>{
     console.log('Error',error)
 })
+
+
+let ello;
